@@ -15,30 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="src\Mirror\Core.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
-    <ClInclude Include="src\Mirror\Application.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
-    <ClInclude Include="src\Mirror.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
-    <ClInclude Include="src\Mirror\Entypoint.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
-    <ClInclude Include="src\Mirror\Log.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="src\Mirror\Application.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="Sanbox\src\SanboxApp.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="src\Mirror\Log.cpp">
+    <ClCompile Include="src\SanboxApp.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
